@@ -1,0 +1,3 @@
+[2024-11-17 18:57:00] Solar Energy produced: 2.9170870542112413 kWh
+[2024-11-17 18:57:00] Wind Energy produced: 4.590615763003634 kWh
+[2024-11-17 18:57:00] Grid Energy produced: 20.0 kWh
